@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersPl3" pos="Pron">höö</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersSg3" pos="Pron">hää</t>
       </tg>
     </mg>
@@ -62,7 +62,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Refl-itse" pos="Pron">itse</t>
       </tg>
     </mg>
@@ -78,7 +78,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PronInterr-ken" pos="Pron">ken</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Pron-miltain" pos="Pron">kumpain</t>
       </tg>
     </mg>
@@ -110,7 +110,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersPl1" pos="Pron">möö</t>
       </tg>
     </mg>
@@ -126,7 +126,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-sikäläin" pos="Pron">meikäläin</t>
       </tg>
     </mg>
@@ -142,7 +142,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PronInterr-mikä" pos="Pron">mikä</t>
       </tg>
     </mg>
@@ -158,7 +158,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersSg1" pos="Pron">miä</t>
       </tg>
     </mg>
@@ -174,7 +174,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PronInterr-kus" pos="Pron">kus</t>
       </tg>
     </mg>
@@ -190,7 +190,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-neet" pos="Pron">neet</t>
       </tg>
     </mg>
@@ -206,7 +206,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-nämä" pos="Pron">nämä</t>
       </tg>
     </mg>
@@ -222,7 +222,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-se" pos="Pron">se</t>
       </tg>
     </mg>
@@ -238,7 +238,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-sikäläin" pos="Pron">sikäläin</t>
       </tg>
     </mg>
@@ -254,7 +254,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersSg2" pos="Pron">siä</t>
       </tg>
     </mg>
@@ -270,7 +270,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="PersPl2" pos="Pron">töö</t>
       </tg>
     </mg>
@@ -286,7 +286,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-sikäläin" pos="Pron">täkäläin</t>
       </tg>
     </mg>
@@ -302,7 +302,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Dem-tämä" pos="Pron">tämä</t>
       </tg>
     </mg>

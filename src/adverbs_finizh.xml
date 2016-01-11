@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp-Ess" pos="Adv">aattoon</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">ain</t>
       </tg>
     </mg>
@@ -62,7 +62,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">egle</t>
       </tg>
     </mg>
@@ -78,7 +78,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">enstää</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">ennää</t>
       </tg>
     </mg>
@@ -110,7 +110,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">jo</t>
       </tg>
     </mg>
@@ -126,7 +126,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">koht</t>
       </tg>
     </mg>
@@ -142,7 +142,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">paraikaa</t>
       </tg>
     </mg>
@@ -158,7 +158,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvManner" pos="Adv">silviisii</t>
       </tg>
     </mg>
@@ -174,7 +174,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">taas</t>
       </tg>
     </mg>
@@ -190,7 +190,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvManner" pos="Adv">viisii</t>
       </tg>
     </mg>
@@ -206,7 +206,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">tänävoonna</t>
       </tg>
     </mg>
@@ -222,7 +222,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">tänäpään</t>
 
         <t Contlex="AdvTemp" pos="Adv">tänäpään</t>
@@ -240,7 +240,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">tihimpää</t>
       </tg>
     </mg>
@@ -256,7 +256,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">tihtii</t>
       </tg>
     </mg>
@@ -272,7 +272,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="AdvTemp" pos="Adv">veel</t>
 
         <t Contlex="AdvTemp" pos="Adv">ennen</t>

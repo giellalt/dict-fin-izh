@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">a-loppuin</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">kitsas</t>
 
         <t Contlex="A_PATSAS" pos="A">ahas</t>
@@ -64,7 +64,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">aktivnoi</t>
       </tg>
     </mg>
@@ -80,7 +80,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">alain</t>
       </tg>
     </mg>
@@ -96,7 +96,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_AVVAARO" pos="A">avvaaro</t>
       </tg>
     </mg>
@@ -112,7 +112,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">e-loppuin</t>
       </tg>
     </mg>
@@ -128,7 +128,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">uslovnoi</t>
       </tg>
     </mg>
@@ -144,7 +144,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Attr-eri" pos="A">eri</t>
       </tg>
     </mg>
@@ -160,7 +160,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">erilaajain</t>
       </tg>
     </mg>
@@ -176,7 +176,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_JALKA" pos="A">harva</t>
       </tg>
     </mg>
@@ -192,7 +192,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">slaaboi</t>
       </tg>
     </mg>
@@ -208,7 +208,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">hoppia</t>
       </tg>
     </mg>
@@ -224,7 +224,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_HYVÄ" pos="A">hyvä</t>
       </tg>
     </mg>
@@ -240,7 +240,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">polzikas</t>
       </tg>
     </mg>
@@ -256,7 +256,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">hämmäärä</t>
       </tg>
     </mg>
@@ -272,7 +272,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">i-loppuin</t>
       </tg>
     </mg>
@@ -288,7 +288,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">ikkäävä</t>
       </tg>
     </mg>
@@ -304,7 +304,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VESSELÄ" pos="A">vesselä</t>
       </tg>
     </mg>
@@ -320,7 +320,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">in-loppuin</t>
       </tg>
     </mg>
@@ -336,7 +336,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">interrogatiivin</t>
       </tg>
     </mg>
@@ -352,7 +352,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">iäkäs</t>
       </tg>
     </mg>
@@ -368,7 +368,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">jalatoin</t>
       </tg>
     </mg>
@@ -384,7 +384,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">porjatkovoi</t>
 
         <t Contlex="A_GLASNOI" pos="A">porjatkovvoi</t>
@@ -402,7 +402,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">kalatoin</t>
       </tg>
     </mg>
@@ -418,7 +418,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">internatsionaljnoi</t>
       </tg>
     </mg>
@@ -434,7 +434,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">natsionaljnoi</t>
       </tg>
     </mg>
@@ -450,7 +450,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">karkia</t>
       </tg>
     </mg>
@@ -466,7 +466,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">kengätöin</t>
       </tg>
     </mg>
@@ -482,7 +482,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">kerkiä</t>
       </tg>
     </mg>
@@ -498,7 +498,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">kimmiä</t>
       </tg>
     </mg>
@@ -514,7 +514,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">kirjatoin</t>
       </tg>
     </mg>
@@ -530,7 +530,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Attr-eri" pos="A">koko</t>
       </tg>
     </mg>
@@ -546,7 +546,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">konkrettin</t>
       </tg>
     </mg>
@@ -562,7 +562,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">korria</t>
       </tg>
     </mg>
@@ -578,7 +578,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">korkia</t>
       </tg>
     </mg>
@@ -594,7 +594,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">kova</t>
       </tg>
     </mg>
@@ -610,7 +610,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">kuiva</t>
       </tg>
     </mg>
@@ -626,7 +626,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">kumma</t>
       </tg>
     </mg>
@@ -642,7 +642,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">kylmä</t>
       </tg>
     </mg>
@@ -658,7 +658,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">käs-loppuin</t>
       </tg>
     </mg>
@@ -674,7 +674,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">prakticeskoi</t>
       </tg>
     </mg>
@@ -690,7 +690,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">köyhä</t>
       </tg>
     </mg>
@@ -706,7 +706,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_JALKA" pos="A">laiska</t>
       </tg>
     </mg>
@@ -722,7 +722,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">levviä</t>
       </tg>
     </mg>
@@ -738,7 +738,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">lihhaava</t>
       </tg>
     </mg>
@@ -754,7 +754,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">logillin</t>
       </tg>
     </mg>
@@ -770,7 +770,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">makkia</t>
       </tg>
     </mg>
@@ -786,7 +786,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">mattaala</t>
       </tg>
     </mg>
@@ -802,7 +802,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">monislogain</t>
       </tg>
     </mg>
@@ -818,7 +818,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">mukkaava</t>
       </tg>
     </mg>
@@ -834,7 +834,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">formaljnoi</t>
       </tg>
     </mg>
@@ -850,7 +850,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">murria</t>
       </tg>
     </mg>
@@ -866,7 +866,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">musta</t>
       </tg>
     </mg>
@@ -882,7 +882,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">märkä</t>
       </tg>
     </mg>
@@ -898,7 +898,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">määrällin</t>
       </tg>
     </mg>
@@ -914,7 +914,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">neitraljnoi</t>
       </tg>
     </mg>
@@ -930,7 +930,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">nt-loppuin</t>
       </tg>
     </mg>
@@ -946,7 +946,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PEENI" pos="A">noori</t>
       </tg>
     </mg>
@@ -962,7 +962,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">oikia</t>
       </tg>
     </mg>
@@ -978,7 +978,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">orfograficeskoi</t>
       </tg>
     </mg>
@@ -994,7 +994,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMA" pos="A">oma</t>
       </tg>
     </mg>
@@ -1010,7 +1010,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_ENTIIN" pos="A">paikalliin</t>
       </tg>
     </mg>
@@ -1026,7 +1026,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">painokas</t>
 
         <t Contlex="A_PATSAS" pos="A">raskas</t>
@@ -1044,7 +1044,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">painollin</t>
       </tg>
     </mg>
@@ -1060,7 +1060,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">painotoin</t>
       </tg>
     </mg>
@@ -1076,7 +1076,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">paksu</t>
       </tg>
     </mg>
@@ -1092,7 +1092,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PAREMP" pos="A">paremp</t>
       </tg>
     </mg>
@@ -1108,7 +1108,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">passivnoi</t>
       </tg>
     </mg>
@@ -1124,7 +1124,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">perreetöin</t>
       </tg>
     </mg>
@@ -1140,7 +1140,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_SUUR" pos="A">peen</t>
 
         <t Contlex="A_PEENI" pos="A">peeni</t>
@@ -1158,7 +1158,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">pimmiä</t>
       </tg>
     </mg>
@@ -1174,7 +1174,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">pitkä</t>
       </tg>
     </mg>
@@ -1190,7 +1190,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">puhas</t>
       </tg>
     </mg>
@@ -1206,7 +1206,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">poolipitkä</t>
       </tg>
     </mg>
@@ -1222,7 +1222,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_JALKA" pos="A">poolivahva</t>
       </tg>
     </mg>
@@ -1238,7 +1238,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">pääpainotoin</t>
       </tg>
     </mg>
@@ -1254,7 +1254,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_JALKA" pos="A">rankka</t>
       </tg>
     </mg>
@@ -1270,7 +1270,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">rappia</t>
       </tg>
     </mg>
@@ -1286,7 +1286,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">s-loppuin</t>
       </tg>
     </mg>
@@ -1302,7 +1302,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">samanlaajain</t>
       </tg>
     </mg>
@@ -1318,7 +1318,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">vihmatoin</t>
       </tg>
     </mg>
@@ -1334,7 +1334,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">selvä</t>
       </tg>
     </mg>
@@ -1350,7 +1350,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">sorria</t>
       </tg>
     </mg>
@@ -1366,7 +1366,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">sotsialisticeskoi</t>
       </tg>
     </mg>
@@ -1382,7 +1382,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">soora</t>
       </tg>
     </mg>
@@ -1398,7 +1398,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_SUUR" pos="A">suur</t>
       </tg>
     </mg>
@@ -1414,7 +1414,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OSA" pos="A">syvä</t>
       </tg>
     </mg>
@@ -1430,7 +1430,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">takavokalin</t>
       </tg>
     </mg>
@@ -1446,7 +1446,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">tocnoi</t>
       </tg>
     </mg>
@@ -1462,7 +1462,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_MEHILÄIN" pos="A">tavallin</t>
       </tg>
     </mg>
@@ -1478,7 +1478,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">slogatoin</t>
       </tg>
     </mg>
@@ -1494,7 +1494,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">tekniceskoi</t>
       </tg>
     </mg>
@@ -1510,7 +1510,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_LÄHE" pos="A">terve</t>
       </tg>
     </mg>
@@ -1526,7 +1526,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">terräävä</t>
       </tg>
     </mg>
@@ -1542,7 +1542,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">toisenlaajain</t>
       </tg>
     </mg>
@@ -1558,7 +1558,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VOOSI" pos="A">tosi</t>
       </tg>
     </mg>
@@ -1574,7 +1574,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VESSELÄ" pos="A">tuttava</t>
       </tg>
     </mg>
@@ -1590,7 +1590,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">vaaƶnoi</t>
       </tg>
     </mg>
@@ -1606,7 +1606,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VOOSI" pos="A">täysi</t>
       </tg>
     </mg>
@@ -1622,7 +1622,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">u-y-loppuin</t>
       </tg>
     </mg>
@@ -1638,7 +1638,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">ussia</t>
       </tg>
     </mg>
@@ -1654,7 +1654,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VOOSI" pos="A">uusi</t>
       </tg>
     </mg>
@@ -1670,7 +1670,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_JALKA" pos="A">vahva</t>
       </tg>
     </mg>
@@ -1686,7 +1686,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">slooƶnoi</t>
       </tg>
     </mg>
@@ -1702,7 +1702,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KERKIÄ" pos="A">valkia</t>
       </tg>
     </mg>
@@ -1718,7 +1718,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">revolytsionnoi</t>
       </tg>
     </mg>
@@ -1734,7 +1734,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_VALMIS" pos="A">valmis</t>
       </tg>
     </mg>
@@ -1750,7 +1750,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_OMMEENA" pos="A">vetteelä</t>
       </tg>
     </mg>
@@ -1766,7 +1766,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">viimäin</t>
       </tg>
     </mg>
@@ -1782,7 +1782,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_ENTIIN" pos="A">männävootiin</t>
       </tg>
     </mg>
@@ -1798,7 +1798,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KALATOIN" pos="A">viratoin</t>
       </tg>
     </mg>
@@ -1814,7 +1814,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_PATSAS" pos="A">voimakas</t>
       </tg>
     </mg>
@@ -1830,7 +1830,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">y-loppuin</t>
       </tg>
     </mg>
@@ -1846,7 +1846,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_GLASNOI" pos="A">prostoi</t>
 
         <t Contlex="A_GLASNOI" pos="A">prostoi</t>
@@ -1864,7 +1864,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="A_KÄRPÄIN" pos="A">ä-loppuin</t>
       </tg>
     </mg>

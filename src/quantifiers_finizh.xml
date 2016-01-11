@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="QntTag" pos="Qnt">enemmän</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Ord-ensimäin" pos="Num">ensimäin</t>
       </tg>
     </mg>
@@ -62,7 +62,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="QntUniv-attr" pos="Qnt">joka</t>
 
         <t Contlex="QntUniv-jokahiin" pos="Qnt">jokahiin</t>
@@ -80,7 +80,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Qnt-kaik" pos="Qnt">kaik</t>
       </tg>
     </mg>
@@ -96,7 +96,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Num-yks" pos="Num">kaks</t>
       </tg>
     </mg>
@@ -112,7 +112,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Num-kolt" pos="Num">kolt</t>
       </tg>
     </mg>
@@ -128,7 +128,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Num-viis" pos="Num">kuus</t>
       </tg>
     </mg>
@@ -144,7 +144,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Ord-sattais" pos="Qnt">sattais</t>
       </tg>
     </mg>
@@ -160,7 +160,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Ord-toin" pos="Num">toin</t>
       </tg>
     </mg>
@@ -176,7 +176,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="QntTag" pos="Qnt">onto</t>
       </tg>
     </mg>
@@ -192,7 +192,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Num-viis" pos="Num">viis</t>
       </tg>
     </mg>
@@ -208,7 +208,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="Num-yks" pos="Num">yks</t>
       </tg>
     </mg>

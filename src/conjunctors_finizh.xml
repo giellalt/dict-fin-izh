@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CC_" pos="CC">ja</t>
 
         <t Contlex="CC_" pos="CC">i</t>
@@ -50,7 +50,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CS_" pos="CS">ku</t>
       </tg>
     </mg>
@@ -66,7 +66,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CS_" pos="CS">mut</t>
       </tg>
     </mg>
@@ -82,7 +82,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CC_" pos="CC">tahi</t>
 
         <t Contlex="CC_" pos="CC">tai</t>
@@ -102,7 +102,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CC_" pos="CC">vaa</t>
       </tg>
     </mg>
@@ -118,7 +118,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="izh">
         <t Contlex="CC_" pos="CC">vai</t>
       </tg>
     </mg>
